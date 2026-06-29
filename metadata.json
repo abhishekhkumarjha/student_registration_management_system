@@ -1,0 +1,6 @@
+{
+  "name": "Student Registration Management System",
+  "description": "An administrative dashboard for electronic registration, search, division, and management of student records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
