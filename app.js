@@ -862,9 +862,6 @@ function renderSettings() {
               <div class="mb-2">
                 <strong>📧 Email:</strong> ${adminProfile.email}
               </div>
-              <div>
-                <strong>📱 Mobile:</strong> ${adminProfile.mobileno}
-              </div>
             ` : `
               <div class="text-center py-3">
                 <div class="spinner-border text-primary" role="status"></div>
